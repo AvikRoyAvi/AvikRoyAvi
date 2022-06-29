@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Avik Roy Avi</h1>
 <h3 align="center">A passionate AI developer from Bangladesh</h3>
 
-![download (2)](https://user-images.githubusercontent.com/93947115/176424027-6d54cce6-d922-4013-bfe4-f4c506dbd372.png)
-![download](https://user-images.githubusercontent.com/93947115/176423680-c4b5ce69-c271-4377-a84a-84716ccfd8b1.jpg)
-![download](https://user-images.githubusercontent.com/93947115/176422264-030153d3-2cbf-486b-b9e1-8990ab4bc004.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikroyavi&label=Profile%20views&color=0e75b6&style=flat" alt="avikroyavi" /> </p>
 
 ## 🏆 GitHub Trophies
