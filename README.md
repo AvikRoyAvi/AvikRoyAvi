@@ -1,6 +1,9 @@
-[![MasterHead]()]
+[![MasterHead](https://github.com/AvikRoyAvi/AvikRoyAvi/blob/main/new-gear-1-Converted.gif)]
 <h1 align="center">Hi 👋, I'm Avik Roy Avi</h1>
 <h3 align="center">A passionate AI developer from Bangladesh</h3>
+
+![download](https://user-images.githubusercontent.com/93947115/176422264-030153d3-2cbf-486b-b9e1-8990ab4bc004.png)
+![download (1)](https://user-images.githubusercontent.com/93947115/176422464-d1750f01-90ca-4da5-927d-579747f1b69f.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikroyavi&label=Profile%20views&color=0e75b6&style=flat" alt="avikroyavi" /> </p>
 
