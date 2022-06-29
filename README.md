@@ -29,4 +29,6 @@
 <p align="left">
 <a href="https://fb.com/avik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avik roy" height="30" width="40" /></a>
 <a href="https://instagram.com/_avik_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avik_roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avik roy avi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik roy avi" height="30" width="40" /></a>
+<a href="https://kaggle.com/avikroyavi211154059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avikroyavi211154059" height="30" width="40" /></a>
 </p>
