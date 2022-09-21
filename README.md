@@ -32,4 +32,6 @@
 <a href="https://kaggle.com/avikroyavi211154059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avikroyavi211154059" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/avikroyavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avikroyavi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/AvikRoyAvi-codeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avikroyavi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avikroyavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avikroyavi" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@avikroyavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@avikroyavi" height="30" width="40" /></a>
 </p>
