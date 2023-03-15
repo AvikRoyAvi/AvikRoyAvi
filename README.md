@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AvikRoyAvi/AvikRoyAvi/blob/main/new-gear-1-Converted.gif)
 <h1 align="center">Hi 👋, I'm Avik Roy Avi</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">I have interest in AI and Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikroyavi&label=Profile%20views&color=0e75b6&style=flat" alt="avikroyavi" /> </p>
 
